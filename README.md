@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://www.lookeetech.com/cdn/shop/products/Lookee-EKG-ECG-Heart-Health-Tracker-Monitor-2_1800x1800.jpg?v=1585200915"><img src="./doc/pic/Lookee-EKG-ECG-Heart-Health-Tracker-Monitor-2_1800x1800.png" alt="Project Image" width="300" height="auto">
+  <a href="https://www.lookeetech.com/cdn/shop/products/Lookee-EKG-ECG-Heart-Health-Tracker-Monitor-2_1800x1800.jpg?v=1585200915"><img src="./docs/pic/Lookee-EKG-ECG-Heart-Health-Tracker-Monitor-2_1800x1800.png" alt="Project Image" width="300" height="auto">
 </p>
 
 <p align="center">
@@ -37,7 +37,7 @@
 *  **Communication Protocols**: The project includes the implementation of communication protocols such as UART, I2C, SPI, and wireless protocols like BLE .
 *  **Peripheral Libraries**: The project utilizes peripheral libraries provided by the microcontroller manufacturer or third-party libraries to simplify the integration and configuration of peripherals.
 *  **Other Device**: We intergrated a lot of device to increase experiment of customer and performance of device .
-*  See our [document](./feature_of_project.md), [system architecture](./firmware_layer_interact.pu) and **system design** for more details .
+*  See our [features description](./feature_of_project.md) for more details .
 
 ## Features
 
