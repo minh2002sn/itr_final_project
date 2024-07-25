@@ -100,6 +100,8 @@ Block of interest example in ECG signal:
 
 - ***TYPE:*** Type of message.
   - 0x00: Data message.
+  - 0x01: Start message.
+  - 0x02: Stop message.
 
 - ***LEN:*** Size of data after LEN byte.
 
