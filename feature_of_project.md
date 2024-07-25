@@ -70,7 +70,7 @@ Using ADC peripheral:
 
 Use Butterworth Filter:
   - Gain: 1dB
-  - Band-pass frequency: 0.5Hz - 150Hz.
+  - Band-pass frequency: 0.05Hz - 150Hz.
 
 **Detect Peaks:**
 
